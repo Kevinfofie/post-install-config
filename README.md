@@ -93,3 +93,31 @@ After the installation of MySQL and configuration, we proceed to opening IIS as 
 <p>
 <img src="https://i.imgur.com/2oKzQLX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+<h2>
+<p>Installation of osTicket</h2>
+<p>
+<p>
+Downloading and the Installation osTicket files
+Extracting and copying the  “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
+</p>
+<p>
+The next step is openinig IIS, opening PHP and enabling Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll extention that are disabled by default.
+</p>
+<p>
+<img src="https://i.imgur.com/1VoyB4T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/yLXUifL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/unkJkSv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/6eVqytD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
