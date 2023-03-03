@@ -127,7 +127,7 @@ Enable: php_opcache.dll extention that are disabled by default.
 <img src="https://i.imgur.com/8a2Lqny.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <p>
       <p>
-After the installation of HeidiSQL, we setup, configure create an osTicket database. Hence we Continue Setting up osticket in the browser from MySQL, by creating a user name, password and proceed to complete the installation of osTicket system. 
+After the installation of HeidiSQL, we setup, configure and create an osTicket database. Hence we Continue Setting up osTicket in the browser from MySQL, by creating a user name, password and proceed to complete the installation of osTicket system. 
 </p>
 <img src="https://i.imgur.com/ekwxo5g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
