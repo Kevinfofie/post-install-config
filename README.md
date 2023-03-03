@@ -66,7 +66,8 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 
 <br />
 
-<p>
+<p> Atfer enabling IIS, we proceed the the installation of
+  
 -  install the Rewrite Module (rewrite_amd64_en-US.msi)
 - install  PHP 7.3.8
 -  install VC_redist.x86.exe.
